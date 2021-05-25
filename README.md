@@ -26,8 +26,7 @@ convenience
 `results.py` - yeilds dataframe with results from played matches  
 
 *Non-Functional*  
-`combine.py` - aims to combine dataframes from notplayed.py and results.py and calculate bet result and profit/loss  
-`test.py` - test script with changing uses  
+`combine.py` - aims to combine dataframes from notplayed.py and results.py and calculate bet result and profit/loss    
 
 **Issues/Improvements:**  
 - [ ] Warn user if given dates are out of range (ongoing games, future games). Maintain functionality for capturing past games in date range after warning.
